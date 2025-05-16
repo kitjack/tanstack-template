@@ -71,7 +71,7 @@ Clicking this button will create a new repo for you that looks exactly like this
 - [Node.js](https://nodejs.org/) v20.9+
 - (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management
 - [Anthropic Claude API](https://www.anthropic.com/api)
-- (optional) [Convex Account](https://dashboard.convex.dev/signup) for database storage
+- (optional) [free ai generator](https://aifreeforever.com/) 
 
 ## Project Structure
 
